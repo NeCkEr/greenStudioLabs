@@ -1,5 +1,5 @@
 git= require("github").GitHubApi
-#merda de codigo
+#merda de codigo temos de mudar para METEOR
 
 github = new git(true);
 githubrepo = github.getRepoApi();
